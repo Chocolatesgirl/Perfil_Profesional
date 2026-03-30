@@ -19,6 +19,19 @@ Proyecto de **servicio de pedidos** usando Python y FastAPI. Permite gestionar u
 
 ---
 
+## Estructura del proyecto
+
+```text
+PedidoService/
+ ├─ main.py          # API principal: define endpoints de usuarios, platos y pedidos
+ ├─ models.py        # Modelos de datos (Pydantic)
+ ├─ services/        # Lógica de negocio (funciones para usuarios, platos y pedidos)
+ ├─ requirements.txt # Dependencias del proyecto
+ ├─ README.md        # Documentación del proyecto
+ └─ .gitignore       # Archivos a ignorar en GitHub (venv, logs, __pycache__)
+
+ ---
+
 ## Funcionalidades
 - Crear, listar y eliminar usuarios  
 - Crear, listar y eliminar platos  
@@ -28,4 +41,42 @@ Proyecto de **servicio de pedidos** usando Python y FastAPI. Permite gestionar u
 
 ---
 
-## Estructura del proyecto
+## Instalación
+Clonar el repositorio:
+git clone https://github.com/Chocolatesgirl/PedidoService.git
+cd PedidoService
+Crear entorno virtual:
+python -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+Instalar dependencias:
+pip install -r requirements.txt
+
+---
+
+## Uso
+Ejecutar el servicio:
+uvicorn main:app --reload --port 8000
+Probar endpoints con navegador, Postman o curl:
+GET /usuarios → Listar usuarios
+POST /usuarios → Crear usuario
+GET /platos → Listar platos
+POST /pedidos → Crear pedido
+Ejemplo con curl:
+curl -X POST "http://127.0.0.1:8000/usuarios" -H "Content-Type: application/json" -d '{"nombre":"Verónica"}'
+Documentación automática de FastAPI:
+http://127.0.0.1:8000/docs
+
+---
+
+## Contribuciones
+Hacer fork del repositorio
+Crear rama nueva: git checkout -b feature/nueva-funcionalidad
+Commit de cambios: git commit -m "Agregar nueva funcionalidad"
+Push a tu rama: git push origin feature/nueva-funcionalidad
+Crear Pull Request en GitHub
+
+---
+
+## Licencia
+Este proyecto está bajo MIT License.
