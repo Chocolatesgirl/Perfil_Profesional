@@ -1,82 +1,112 @@
-# Servicio de Pedidos 🚀
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95.2-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-## Descripción
-Proyecto de **servicio de pedidos** usando Python y FastAPI. Permite gestionar usuarios, platos y pedidos de forma modular, simulando un sistema real de restaurante o comercio electrónico.
+# 👩‍💻 Verónica Maldonado Céspedes  
+### Senior Project Manager | Scrum Master | Cloud & DevOps Leader
 
 ---
 
-## Tecnologías
-- Python 3.10+
-- FastAPI (API REST)
-- Uvicorn (Servidor ASGI)
-- Pydantic (Modelos de datos)
-- SQLite (opcional)
-- Git / GitHub
+## 🌟 Sobre mí
+
+Ingeniera Civil Informática con más de **10 años liderando proyectos tecnológicos estratégicos**, especializada en **transformación digital, migración a la nube y adopción de prácticas ágiles y DevOps**.
+
+He liderado equipos multidisciplinarios en entornos de alta complejidad, impulsando la mejora continua, optimización de procesos y alineación entre negocio y tecnología.
+
+✔️ Enfoque en resultados medibles  
+✔️ Liderazgo basado en Management 3.0  
+✔️ Toma de decisiones basada en datos  
 
 ---
 
-## Estructura del proyecto
+## 🏆 Logros Destacados
 
-```text
-PedidoService/
- ├─ main.py          # API principal: define endpoints de usuarios, platos y pedidos
- ├─ models.py        # Modelos de datos (Pydantic)
- ├─ services/        # Lógica de negocio (funciones para usuarios, platos y pedidos)
- ├─ requirements.txt # Dependencias del proyecto
- ├─ README.md        # Documentación del proyecto
- └─ .gitignore       # Archivos a ignorar en GitHub (venv, logs, __pycache__)
-
- ---
-
-## Funcionalidades
-- Crear, listar y eliminar usuarios  
-- Crear, listar y eliminar platos  
-- Crear y consultar pedidos por usuario  
-- Gestión de IDs únicas para usuarios y platos  
-- Modularización por microservicios
+- 🔻 **-40% costos operativos** mediante automatización (chatbot + procesos)
+- 🚀 **+70% productividad de equipos** con gestión estratégica
+- ⚡ **-60% tiempos de entrega** con implementación CI/CD
+- 📉 **-40% riesgos operacionales** con gestión proactiva
+- 😊 **+50% satisfacción de clientes**
+- ☁️ Migraciones exitosas a AWS con alta disponibilidad y escalabilidad
 
 ---
 
-## Instalación
-Clonar el repositorio:
-git clone https://github.com/Chocolatesgirl/PedidoService.git
-cd PedidoService
-Crear entorno virtual:
-python -m venv venv
-source venv/bin/activate   # Mac/Linux
-venv\Scripts\activate      # Windows
-Instalar dependencias:
-pip install -r requirements.txt
+## 🧠 Especialidades
+
+### 🔹 Gestión y Liderazgo
+- Project & Program Management
+- Gestión de riesgos y KPIs
+- Stakeholder Management
+- Management 3.0
+- Design Thinking
+
+### 🔹 Metodologías Ágiles
+- Scrum | Kanban | SAFe
+- OKRs
+- Mejora continua (Lean Agile)
+
+### 🔹 Cloud & DevOps
+- AWS (Cloud Practitioner, SAA, SysOps)
+- Azure (AZ-900)
+- CI/CD Pipelines
+- Jenkins, SonarQube
+- Automatización de procesos
+
+### 🔹 Herramientas
+- Azure DevOps, Jira, Confluence, Trello
+- SQL, Linux, Bash
+- Selenium (testing automatizado)
 
 ---
 
-## Uso
-Ejecutar el servicio:
-uvicorn main:app --reload --port 8000
-Probar endpoints con navegador, Postman o curl:
-GET /usuarios → Listar usuarios
-POST /usuarios → Crear usuario
-GET /platos → Listar platos
-POST /pedidos → Crear pedido
-Ejemplo con curl:
-curl -X POST "http://127.0.0.1:8000/usuarios" -H "Content-Type: application/json" -d '{"nombre":"Verónica"}'
-Documentación automática de FastAPI:
-http://127.0.0.1:8000/docs
+## 💼 Experiencia Relevante
+
+### 🔹 Senior Project Manager / Scrum Master — Imagemaker  
+- Liderazgo de iniciativas Agile & Cloud  
+- Implementación de Azure DevOps  
+- Desarrollo de plataformas web y apps móviles  
+- Transformación digital en clientes como ProVida  
+
+### 🔹 Senior Project Manager — Editrade  
+- Liderazgo de múltiples células ágiles  
+- Migración de sistemas críticos a AWS  
+- Implementación de CI/CD y testing automatizado  
+- Reducción de tiempos de entrega en 60% :contentReference[oaicite:0]{index=0}  
 
 ---
 
-## Contribuciones
-Hacer fork del repositorio
-Crear rama nueva: git checkout -b feature/nueva-funcionalidad
-Commit de cambios: git commit -m "Agregar nueva funcionalidad"
-Push a tu rama: git push origin feature/nueva-funcionalidad
-Crear Pull Request en GitHub
+## ☁️ Certificaciones
+
+- AWS Cloud Practitioner  
+- AWS Solutions Architect Associate  
+- AWS SysOps Administrator  
+- Microsoft Azure AZ-900  
+- Scrum Master  
+- ITIL Foundation V3  
+- Diplomado en Dirección de Proyectos – Universidad de Chile  
 
 ---
 
-## Licencia
-Este proyecto está bajo MIT License.
+## 🚀 Proyectos en GitHub
+
+Este perfil forma parte de mi proceso de **reinvención profesional en tecnología**, donde estoy construyendo repositorios enfocados en:
+
+- 🔹 Gestión ágil y liderazgo
+- 🔹 CI/CD y DevOps
+- 🔹 Arquitecturas cloud
+- 🔹 Automatización (RPA + IA)
+
+👉 Revisa mis repositorios para ver ejemplos prácticos.
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: *(agrega aquí tu link)*
+- 📧 Email: *(opcional)*
+- 🌐 GitHub: https://github.com/Chocolatesgirl
+
+---
+
+## 🎯 Objetivo Profesional
+
+Aportar valor en organizaciones que busquen **transformación digital real**, combinando liderazgo, tecnología y estrategia para lograr resultados medibles y sostenibles.
+
+---
+
+⭐ *Siempre aprendiendo, siempre mejorando.*
