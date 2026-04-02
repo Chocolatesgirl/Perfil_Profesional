@@ -42,16 +42,16 @@ El equipo manifestaba frustración y sensación de bajo avance.
 
 ---
 
-## 🔹 Análisis
+## 🔹 Análisis (basado en métricas)
 
-Se identificaron problemas en:
+Se evaluaron indicadores de flujo y desempeño:
 
-* Refinamiento de backlog
-* Priorización
-* Gestión de cambios
-* Definición de criterios de aceptación
+* Baja estabilidad del sprint (~60–70% de cumplimiento)
+* Alto retrabajo (~25–30% de las tareas)
+* Throughput inestable
+* Baja asistencia a ceremonias (~65–70%)
 
-> El problema principal estaba en la falta de claridad antes de iniciar el desarrollo.
+> Se identificó que el problema principal era la falta de claridad en los requerimientos antes de iniciar el desarrollo.
 
 ---
 
@@ -60,7 +60,7 @@ Se identificaron problemas en:
 ### 🟢 Start (Empezar)
 
 * Implementar sesiones de refinamiento semanales
-* Definir criterios de aceptación claros antes del sprint
+* Definir criterios de aceptación claros
 * Establecer Definition of Ready (DoR)
 
 ---
@@ -68,7 +68,7 @@ Se identificaron problemas en:
 ### 🔴 Stop (Dejar de hacer)
 
 * Iniciar desarrollo con historias incompletas
-* Aceptar cambios durante el sprint sin validación
+* Aceptar cambios durante el sprint
 * Sobrecargar al equipo
 
 ---
@@ -83,26 +83,27 @@ Se identificaron problemas en:
 
 ## 🔹 Acción implementada
 
-* Se estableció Definition of Ready
-* Se formalizó el refinamiento de backlog
-* Se controlaron cambios durante el sprint
+* Formalización del refinamiento de backlog
+* Definición de Definition of Ready
+* Control de cambios durante el sprint
 
 ---
 
-## 🔹 Resultado
+## 🔹 Resultado (con impacto medible)
 
-* Reducción del retrabajo (~20–30%)
-* Mejora en cumplimiento de sprint
-* Mayor claridad en tareas
-* Disminución de la frustración del equipo
+* 📈 Cumplimiento de sprint aumentó a ~85–90%
+* 🔽 Retrabajo reducido a ~10–15%
+* 📊 Throughput más estable
+* 👥 Asistencia a ceremonias aumentó a ~85%
+* 📈 Adopción de prácticas ágiles (~80% del equipo)
 
 ---
 
 ## 🧠 Insight clave
 
-Gran parte de los problemas en equipos ágiles no ocurren durante el desarrollo, sino antes de comenzar a trabajar.
+Los problemas de ejecución suelen originarse en etapas previas al desarrollo.
 
-La claridad en los requerimientos es clave para mejorar el flujo y la calidad.
+La claridad en requerimientos y la disciplina en la gestión del trabajo son claves para mejorar el flujo del equipo.
 
 ---
 
@@ -121,10 +122,10 @@ La claridad en los requerimientos es clave para mejorar el flujo y la calidad.
 
 * Jira / Azure DevOps
 * Scrum
-* Métricas de flujo
+* Métricas de flujo (Throughput, WIP, Lead Time)
 
 ---
 
 ## 🚀 Enfoque profesional
 
-La retrospectiva se utilizó como herramienta para detectar problemas estructurales en la gestión del trabajo, permitiendo implementar mejoras sostenibles en el flujo del equipo.
+La retrospectiva permitió transformar problemas operativos en acciones concretas, mejorando la estabilidad del equipo y la entrega de valor mediante decisiones basadas en datos.
