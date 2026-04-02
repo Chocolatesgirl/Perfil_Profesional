@@ -90,14 +90,54 @@ Actúo como puente entre negocio y tecnología, alineando objetivos estratégico
 
 ---
 
-## 🚀 Repositorios Destacados
+## 🚀 Roadmap Profesional en GitHub
 
-Este perfil forma parte de mi proceso de **reinvención profesional en tecnología**, donde desarrollo proyectos enfocados en:
+Este perfil forma parte de mi proceso de **reinvención profesional en tecnología**, donde estoy desarrollando un portafolio estructurado que refleja mi experiencia en liderazgo, transformación digital y adopción de tecnologías emergentes.
 
-* 🔹 CI/CD y pipelines DevOps
-* 🔹 Arquitecturas cloud
-* 🔹 Automatización de procesos (RPA + IA)
-* 🔹 Gestión ágil aplicada
+### 🔹 Fase 1: Fundamentos y Liderazgo Ágil
+
+* 📁 **Perfil Profesional** → Visión estratégica, experiencia y certificaciones
+* 📁 **Plantillas Ágiles** → OKRs, retrospectivas, Kanban y prácticas Management 3.0
+
+### 🔹 Fase 2: Cloud & DevOps
+
+* ⚙️ **CI/CD Pipelines** → Automatización con GitHub Actions, testing y pipelines YAML
+* ☁️ **Migración a la Nube** → Arquitectura de monolito a microservicios (Docker + Kubernetes)
+
+### 🔹 Fase 3: Innovación (IA & Automatización)
+
+* 🤖 **Reconocimiento Facial** → Autenticación con servicios cloud (AWS/Azure)
+* 💬 **Chatbot de Procesos** → Automatización de flujos de negocio (RPA + IA)
+
+### 🔹 Fase 4: IoT & Analítica
+
+* 🌐 **IoT Transporte** → Monitoreo de datos en tiempo real (sensores + analítica)
+
+---
+
+## 🎯 Enfoque del Portafolio
+
+Este roadmap está diseñado para demostrar:
+
+* 🔹 Liderazgo en transformación digital
+* 🔹 Implementación de prácticas DevOps reales
+* 🔹 Arquitectura y soluciones cloud escalables
+* 🔹 Integración de tecnologías emergentes (IA, RPA, IoT)
+
+---
+
+## 📈 Estrategia
+
+Cada repositorio incluye:
+
+* ✔️ Documentación clara (README profesional)
+* ✔️ Arquitectura explicada
+* ✔️ Casos de uso reales
+* ✔️ Enfoque en valor de negocio
+
+---
+
+🚀 *Construyendo un portafolio alineado a los desafíos tecnológicos actuales.*
 
 ---
 
