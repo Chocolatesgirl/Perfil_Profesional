@@ -1,111 +1,134 @@
-# 👩‍💻 Verónica Maldonado Céspedes  
-### Senior Project Manager | Scrum Master | Cloud & DevOps Leader
+# 👩‍💻 Verónica Maldonado Céspedes
+
+### Delivery Manager | Senior Project Manager | Cloud & DevOps Leader
+
+🚀 +10 años liderando transformación digital | Cloud | DevOps | Agile
 
 ---
 
 ## 🌟 Sobre mí
 
-Ingeniera Civil Informática con más de **10 años liderando proyectos tecnológicos estratégicos**, especializada en **transformación digital, migración a la nube y adopción de prácticas ágiles y DevOps**.
+Ingeniera Civil Informática con más de **10 años liderando iniciativas tecnológicas y de transformación digital**, especializada en **Cloud (AWS/Azure), DevOps y gestión de equipos ágiles**.
 
-He liderado equipos multidisciplinarios en entornos de alta complejidad, impulsando la mejora continua, optimización de procesos y alineación entre negocio y tecnología.
+Experiencia liderando equipos multidisciplinarios en entornos complejos, impulsando la modernización de plataformas, automatización de procesos y adopción de prácticas **CI/CD**, con foco en **eficiencia operativa, calidad y entrega continua de valor**.
 
-✔️ Enfoque en resultados medibles  
-✔️ Liderazgo basado en Management 3.0  
-✔️ Toma de decisiones basada en datos  
+Actúo como puente entre negocio y tecnología, alineando objetivos estratégicos con soluciones escalables y sostenibles.
 
 ---
 
-## 🏆 Logros Destacados
+## 🏆 Impacto y Logros
 
-- 🔻 **-40% costos operativos** mediante automatización (chatbot + procesos)
-- 🚀 **+70% productividad de equipos** con gestión estratégica
-- ⚡ **-60% tiempos de entrega** con implementación CI/CD
-- 📉 **-40% riesgos operacionales** con gestión proactiva
-- 😊 **+50% satisfacción de clientes**
-- ☁️ Migraciones exitosas a AWS con alta disponibilidad y escalabilidad
+* 🔻 **-40% costos operativos** mediante automatización (chatbot + procesos)
+* 🚀 **+70% productividad de equipos** mediante gestión estratégica
+* ⚡ **-60% tiempos de entrega** con implementación CI/CD
+* 📉 **-40% riesgos operacionales** mediante gestión proactiva
+* 😊 **+50% satisfacción de clientes**
+* ☁️ Migración exitosa de plataformas a AWS con alta disponibilidad
 
 ---
 
 ## 🧠 Especialidades
 
-### 🔹 Gestión y Liderazgo
-- Project & Program Management
-- Gestión de riesgos y KPIs
-- Stakeholder Management
-- Management 3.0
-- Design Thinking
-
-### 🔹 Metodologías Ágiles
-- Scrum | Kanban | SAFe
-- OKRs
-- Mejora continua (Lean Agile)
-
 ### 🔹 Cloud & DevOps
-- AWS (Cloud Practitioner, SAA, SysOps)
-- Azure (AZ-900)
-- CI/CD Pipelines
-- Jenkins, SonarQube
-- Automatización de procesos
+
+* AWS (Cloud Practitioner, SAA, SysOps)
+* Microsoft Azure (AZ-900)
+* CI/CD (Jenkins, Azure DevOps)
+* Automatización de procesos
+* Arquitecturas escalables y distribuidas
+
+### 🔹 Gestión & Delivery
+
+* Delivery Management
+* Project & Program Management (PMP)
+* Gestión de riesgos y stakeholders
+* KPIs, OKRs y métricas de desempeño
+
+### 🔹 Metodologías
+
+* Agile (Scrum, Kanban, SAFe)
+* DevOps mindset
+* ITIL
+* Management 3.0
 
 ### 🔹 Herramientas
-- Azure DevOps, Jira, Confluence, Trello
-- SQL, Linux, Bash
-- Selenium (testing automatizado)
+
+* Azure DevOps, Jira, Confluence, Trello
+* Jenkins, SonarQube, Bitbucket
+* SQL, Linux, Bash
 
 ---
 
-## 💼 Experiencia Relevante
+## 💼 Experiencia Destacada
 
-### 🔹 Senior Project Manager / Scrum Master — Imagemaker  
-- Liderazgo de iniciativas Agile & Cloud  
-- Implementación de Azure DevOps  
-- Desarrollo de plataformas web y apps móviles  
-- Transformación digital en clientes como ProVida  
+### 🔹 Delivery Manager — Imagemaker
 
-### 🔹 Senior Project Manager — Editrade  
-- Liderazgo de múltiples células ágiles  
-- Migración de sistemas críticos a AWS  
-- Implementación de CI/CD y testing automatizado  
-- Reducción de tiempos de entrega en 60% :contentReference[oaicite:0]{index=0}  
+* Lideré iniciativas de transformación digital con enfoque DevOps y automatización
+* Implementación de CI/CD, mejorando tiempos de entrega en un 40%
+* Gestión de equipos ágiles y alineación negocio-tecnología
+* Optimización de plataformas y estabilidad operativa
+
+### 🔹 Senior Project Manager — Editrade
+
+* Migración de sistemas críticos a AWS (cloud)
+* Implementación de CI/CD y automatización (reducción de tiempos en 60%)
+* Integración de sistemas y modernización de arquitectura
+* Optimización de procesos y reducción de costos
 
 ---
 
 ## ☁️ Certificaciones
 
-- AWS Cloud Practitioner  
-- AWS Solutions Architect Associate  
-- AWS SysOps Administrator  
-- Microsoft Azure AZ-900  
-- Scrum Master  
-- ITIL Foundation V3  
-- Diplomado en Dirección de Proyectos – Universidad de Chile  
+* AWS Cloud Practitioner
+* AWS Solutions Architect Associate
+* AWS SysOps Administrator
+* Microsoft Azure AZ-900
+* Scrum Master
+* ITIL Foundation V3
+* PMP
+* Diplomado en Dirección de Proyectos – Universidad de Chile
 
 ---
 
-## 🚀 Proyectos en GitHub
+## 🚀 Repositorios Destacados
 
-Este perfil forma parte de mi proceso de **reinvención profesional en tecnología**, donde estoy construyendo repositorios enfocados en:
+Este perfil forma parte de mi proceso de **reinvención profesional en tecnología**, donde desarrollo proyectos enfocados en:
 
-- 🔹 Gestión ágil y liderazgo
-- 🔹 CI/CD y DevOps
-- 🔹 Arquitecturas cloud
-- 🔹 Automatización (RPA + IA)
-
-👉 Revisa mis repositorios para ver ejemplos prácticos.
+* 🔹 CI/CD y pipelines DevOps
+* 🔹 Arquitecturas cloud
+* 🔹 Automatización de procesos (RPA + IA)
+* 🔹 Gestión ágil aplicada
 
 ---
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: *(agrega aquí tu link)*
-- 📧 Email: *(opcional)*
-- 🌐 GitHub: https://github.com/Chocolatesgirl
+* 💼 LinkedIn: https://www.linkedin.com/in/TU-LINK-AQUI
+* 🌐 GitHub: https://github.com/Chocolatesgirl
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Aportar valor en organizaciones que busquen **transformación digital real**, combinando liderazgo, tecnología y estrategia para lograr resultados medibles y sostenibles.
+Aportar valor en organizaciones que busquen **transformación digital real**, combinando liderazgo, tecnología y estrategia para generar resultados medibles y sostenibles.
+
+---
+
+## 🤝 ¿Trabajamos juntos?
+
+Estoy abierta a oportunidades como:
+
+* Delivery Manager
+* Project Manager TI
+* Liderazgo en transformación digital
+* Cloud & DevOps initiatives
+
+📩 Contáctame por LinkedIn
+
+---
+
+⭐ *Transformando tecnología en valor de negocio.*
+
 
 ---
 
