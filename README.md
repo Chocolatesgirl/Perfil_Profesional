@@ -103,7 +103,7 @@ Este perfil forma parte de mi proceso de **reinvención profesional en tecnolog�
 
 ## 📫 Contacto
 
-* 💼 LinkedIn: https://www.linkedin.com/in/TU-LINK-AQUI
+* 💼 LinkedIn: https://www.linkedin.com/in/verónicamaldonado
 * 🌐 GitHub: https://github.com/Chocolatesgirl
 
 ---
