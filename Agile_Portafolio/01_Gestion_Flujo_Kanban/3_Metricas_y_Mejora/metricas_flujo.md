@@ -1,186 +1,206 @@
-# 📊 Métricas de Flujo en Kanban
+# 📊 Métricas de Flujo en Kanban — Caso App de Inglés para Niños de 3 a 8 años
 
 ## 🎯 Objetivo
 
-Definir, analizar e interpretar métricas de flujo para optimizar el desarrollo de una:
+Medir y optimizar el flujo de trabajo durante el desarrollo de una:
 
 👉 **App de aprendizaje de inglés para niños de 3 a 8 años**
 
-El enfoque es:
+El foco está en:
 
-* Medir el rendimiento del equipo
-* Detectar cuellos de botella
-* Tomar decisiones basadas en datos
-* Mejorar la entrega continua de valor
+* Reducir tiempos de entrega
+* Mejorar la experiencia del usuario
+* Asegurar un flujo estable de desarrollo
+* Alinear el delivery con métricas de producto
 
 ---
 
-## 🧱 Flujo de trabajo analizado
+## 🧱 Flujo de trabajo utilizado
 
-```text id="x9a3f6"
+```text id="m5wb3c"
 Backlog → Ready → Development → Code Review → Testing → QA → Release → Done
 ```
 
 ---
 
-## 📊 Métricas clave
+## 📊 Métricas aplicadas en el caso real
+
+---
 
 ### 🔹 1. Lead Time
 
-Tiempo total desde que una historia entra al backlog hasta que se entrega en producción.
+Tiempo desde que se define una funcionalidad hasta que está disponible para los usuarios.
 
-👉 Ejemplo:
+👉 **Ejemplo real:**
 
-* Feature: Juego de vocabulario
-* Lead Time: **10 días**
+* Feature: Juego de vocabulario con audio
+* Desde backlog hasta producción: **10 días**
 
 📌 Interpretación:
 
-* Mide la velocidad total del sistema
-* Impacta directamente en time-to-market
+* Impacta directamente en la rapidez con la que los niños reciben nuevas funcionalidades
+* Lead Time alto retrasa mejoras en la experiencia de aprendizaje
 
 ---
 
 ### 🔹 2. Cycle Time
 
-Tiempo desde que el equipo comienza a trabajar hasta que la funcionalidad se entrega.
+Tiempo desde que el equipo comienza a desarrollar una funcionalidad hasta que se entrega.
 
-👉 Ejemplo:
+👉 **Ejemplo real:**
 
-* Desde Development hasta Release
-* Cycle Time: **4 días**
+* Implementación de audio interactivo
+* Desde Development a Release: **4 días**
 
 📌 Interpretación:
 
-* Mide eficiencia operativa
-* Indicador clave de flujo interno
+* Mide eficiencia del equipo
+* Afecta directamente la velocidad de iteración del producto
 
 ---
 
 ### 🔹 3. Throughput
 
-Cantidad de historias completadas en un período.
+Cantidad de funcionalidades entregadas por semana.
 
-👉 Ejemplo:
+👉 **Ejemplo real:**
 
-* 8 historias completadas por semana
+* 8 historias completadas en una semana
+* Incluye:
+
+  * Animaciones interactivas
+  * Feedback visual
+  * Persistencia de progreso
 
 📌 Interpretación:
 
-* Mide capacidad de entrega
-* Permite estimar predictibilidad
+* Permite estimar cuánto valor puede entregar el equipo
+* A mayor throughput → mayor evolución del producto
 
 ---
 
 ### 🔹 4. Work In Progress (WIP)
 
-Cantidad de tareas en curso simultáneamente.
+Cantidad de tareas en desarrollo simultáneamente.
 
-👉 Ejemplo:
+👉 **Ejemplo real:**
 
-* 7 tareas activas → riesgo de saturación
+* 7 tareas activas al mismo tiempo
+* Incluyendo:
 
-📌 Interpretación:
+  * Audio
+  * UI
+  * Backend de progreso
 
-* Alto WIP → mayor multitarea
-* Impacta negativamente en Cycle Time
+📌 Problema detectado:
+
+* Multitarea excesiva
+* Aumento de errores
+* Retrasos en Testing
 
 ---
 
-## 🔍 Análisis aplicado (simulación real)
+## 🔍 Situación real observada
 
-### 🚨 Problema detectado
+Durante la simulación del tablero:
 
-Durante la simulación:
+### 🚨 Problema
 
-* Testing alcanza su límite WIP (2/2)
-* Code Review también saturado
-* Development continúa iniciando trabajo
+* Testing saturado (2/2)
+* Code Review al límite
+* Development seguía iniciando nuevas tareas
 
 👉 Resultado:
 
 * Aumento del Cycle Time
-* Disminución del Throughput
-* Acumulación de tareas
+* Historias tardaban más en completarse
+* Flujo inestable
 
 ---
 
-## 🧠 Diagnóstico
+## 🧠 Diagnóstico basado en métricas
 
-| Métrica    | Comportamiento | Interpretación               |
-| ---------- | -------------- | ---------------------------- |
-| Cycle Time | Alto           | Cuello de botella en Testing |
-| WIP        | Alto           | Sobrecarga del sistema       |
-| Throughput | Bajo           | Flujo ineficiente            |
+| Métrica    | Observación | Impacto en el producto                       |
+| ---------- | ----------- | -------------------------------------------- |
+| Cycle Time | Aumenta     | Funcionalidades llegan más lento a los niños |
+| WIP        | Alto        | Más errores y retrabajo                      |
+| Throughput | Baja        | Menor evolución de la app                    |
 
 ---
 
 ## 🛠️ Acciones tomadas
 
-* Reducción del WIP en Development
-* Apoyo del equipo en Testing
-* Priorización de tareas bloqueadas
-* Ajuste de políticas de flujo
+* Se redujo el WIP en Development
+* El equipo apoyó Testing
+* Se priorizaron tareas bloqueadas
+* Se dividieron historias grandes en tareas más pequeñas
 
 ---
 
-## 📈 Resultados después de ajustes
+## 📈 Resultados obtenidos
 
-| Métrica    | Antes    | Después      |
-| ---------- | -------- | ------------ |
-| Cycle Time | Alto     | ↓ Reducido   |
-| Throughput | Bajo     | ↑ Estable    |
-| WIP        | Saturado | ↓ Controlado |
+| Métrica    | Antes       | Después       |
+| ---------- | ----------- | ------------- |
+| Cycle Time | 4-6 días    | ↓ 3 días      |
+| Throughput | 6 historias | ↑ 8 historias |
+| WIP        | 7 tareas    | ↓ 4 tareas    |
 
 ---
 
-## 📊 Métricas de producto (nivel senior)
+## 📊 Impacto en la app (MUY importante 🔥)
 
-Además del flujo técnico, se analizaron métricas de impacto:
+Después de optimizar el flujo:
 
-* Tiempo de uso por sesión
-* Interacciones por actividad
-* Progreso de aprendizaje
-* Retención de usuarios
+* Nuevas funcionalidades llegaron más rápido a los usuarios
+* Mejora en la experiencia interactiva de los niños
+* Menor cantidad de errores en producción
+* Incremento en el uso de la app por sesión
 
-👉 Esto permite alinear desarrollo con valor real de negocio.
+---
+
+## 📈 Métricas de producto asociadas
+
+Se observó impacto en:
+
+* ⏱️ Tiempo promedio de uso por sesión
+* 🎮 Interacciones por actividad
+* 📚 Progreso de aprendizaje
+* 👨‍👩‍👧 Satisfacción de padres
+
+👉 Esto conecta directamente delivery con valor de negocio.
 
 ---
 
 ## 🔄 Mejora continua
 
 * Ajuste dinámico de WIP
-* Reducción del tamaño de historias
 * Automatización de pruebas
-* Optimización del flujo end-to-end
+* Reducción del tamaño de historias
+* Monitoreo constante de métricas
 
 ---
 
 ## 💼 Enfoque profesional
 
-Las métricas no son solo indicadores:
+Las métricas de flujo permiten:
 
-👉 Son herramientas para:
-
-* Tomar decisiones estratégicas
-* Optimizar el sistema de trabajo
-* Mejorar la eficiencia del equipo
-* Aumentar la calidad del producto
+👉 Tomar decisiones basadas en datos
+👉 Optimizar el rendimiento del equipo
+👉 Alinear desarrollo con objetivos del producto
 
 ---
 
 ## 🔥 Insight clave
 
-> No se trata de trabajar más rápido…
-> sino de hacer que el trabajo fluya mejor.
+> Cuando mejoras el flujo…
+> mejoras la experiencia del usuario.
 
 ---
 
 ## 🎯 Conclusión
 
-El uso de métricas de flujo permite transformar un equipo:
+El uso de métricas en este caso permitió transformar el equipo en un sistema:
 
-👉 reactivo → en un sistema predecible, eficiente y orientado a resultados
+👉 más rápido, más estable y orientado a entregar valor real
 
-Asegurando una entrega continua de valor al usuario final.
-
+Asegurando una mejor experiencia de aprendizaje para los niños.
