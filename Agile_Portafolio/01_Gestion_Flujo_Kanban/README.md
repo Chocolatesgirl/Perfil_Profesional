@@ -2,120 +2,139 @@
 
 ## 🎯 Propósito
 
-Este módulo documenta la implementación de **Kanban como sistema de gestión de flujo**, orientado a la entrega continua de valor en entornos de desarrollo de software.
+Este módulo presenta la implementación de **Kanban como sistema de gestión de flujo**, aplicado al desarrollo de un producto digital.
 
-El enfoque no es solo visual, sino estratégico:
-👉 optimizar el flujo de trabajo, reducir tiempos de entrega y mejorar la eficiencia del equipo.
+El enfoque está orientado a:
+
+* Visualizar el trabajo end-to-end
+* Optimizar el flujo de entrega
+* Reducir tiempos de desarrollo
+* Tomar decisiones basadas en métricas
 
 ---
 
 ## 🧩 Caso aplicado
 
-Se presenta un caso práctico basado en el desarrollo de una:
+Se desarrolla un caso práctico basado en una:
 
-👉 **Aplicación de aprendizaje de inglés para niños de 3 a 8 años**
+👉 **App de aprendizaje de inglés para niños de 3 a 8 años**
 
-### Objetivo del producto:
+Objetivos del producto:
 
-* Mejorar la **retención de usuarios**
-* Aumentar el **engagement mediante juegos interactivos**
-* Facilitar el aprendizaje a través de **audio, visuales y recompensas**
-
----
-
-## 🔄 Enfoque de implementación
-
-El sistema Kanban se diseñó considerando:
-
-* Flujo continuo de trabajo (no basado en sprints rígidos)
-* Priorización por **valor de negocio**
-* Trabajo en unidades pequeñas para mejorar la **flow efficiency**
-* Gestión activa del sistema (no solo seguimiento visual)
+* Mejorar la experiencia de aprendizaje
+* Incrementar el engagement mediante interacciones
+* Aumentar la retención de usuarios
 
 ---
 
 ## 🧱 Estructura del flujo
 
+El sistema se organiza en un flujo continuo:
+
 ```text
 Backlog → Ready → Development → Code Review → Testing → QA → Release → Done
 ```
 
----
-
-## 📌 Ejemplo de implementación
-
-**Feature:** Juego de vocabulario con audio
-
-**Historia de usuario:**
-
-> Como niño, quiero escuchar la pronunciación de una palabra para aprender correctamente
-
-**Criterios de aceptación:**
-
-* Reproducción de audio al interactuar
-* Feedback visual (animación)
-* Compatibilidad con dispositivos móviles
+Este flujo permite gestionar el trabajo de manera progresiva, asegurando calidad en cada etapa.
 
 ---
 
-## ⚙️ Prácticas clave aplicadas
+## ⚙️ Componentes del sistema Kanban
 
-* Refinamiento continuo del backlog
-* Historias pequeñas y manejables
-* Definición de políticas explícitas (DoR / DoD)
-* Control de trabajo en curso (WIP)
-* Gestión de bloqueos en tiempo real
+Este módulo se compone de cuatro dimensiones principales:
 
 ---
 
-## 📈 Gestión basada en métricas
+### 🧩 1. Diseño del flujo
 
-Se utilizaron métricas de flujo para optimizar el sistema:
+📄 `diseno_tablero_kanban.md`
 
-* **Lead Time** → Tiempo total desde la idea hasta producción
-* **Cycle Time** → Tiempo desde que inicia el desarrollo
-* **Throughput** → Cantidad de entregas por período
-* **WIP** → Control de sobrecarga del equipo
+* Definición de columnas del tablero
+* Estructura del flujo de trabajo
+* Ejemplos de historias y tareas reales
+* Adaptación a herramientas como Jira / Azure DevOps
 
 ---
 
-## 🔍 Ejemplo de mejora aplicada
+### 🔄 2. Operación del flujo
 
-Durante el desarrollo:
+📄 `simulacion_flujo_trabajo_jira.md`
+📄 `politicas_wip.md`
 
-**Problema detectado:**
+* Simulación de un tablero en operación real
+* Gestión de tareas en distintas etapas
+* Aplicación de límites WIP
+* Identificación y resolución de bloqueos
 
-* Acumulación de tareas en Testing
+👉 Se aplica el principio:
+**“Stop starting, start finishing”**
 
-**Impacto:**
+---
+
+### 📊 3. Métricas y mejora
+
+📄 `metricas_flujo.md`
+📄 `cumulative_flow_explicado.md`
+
+* Medición de Lead Time, Cycle Time y Throughput
+* Análisis del flujo mediante métricas
+* Identificación de cuellos de botella
+* Uso de CFD (Cumulative Flow Diagram)
+
+👉 Enfoque data-driven para optimizar el sistema
+
+---
+
+### 🚀 4. Caso práctico aplicado
+
+📄 `caso_practico_kanban_app_ingles.md`
+
+* Implementación completa del sistema Kanban
+* Problemas reales del flujo
+* Decisiones del equipo
+* Resultados obtenidos
+
+---
+
+## 🔍 Ejemplo de situación real
+
+Durante la operación del tablero:
+
+* Testing alcanza su límite WIP
+* Code Review se satura
+* Development continúa iniciando trabajo
+
+👉 Resultado:
 
 * Aumento del Cycle Time
-* Retrasos en entregas
-
-**Acciones tomadas:**
-
-* Ajuste de límites WIP
-* Redistribución del trabajo
-* Priorización de desbloqueos
+* Flujo inestable
 
 ---
 
-## 🚀 Resultados obtenidos
+## 🛠️ Acciones implementadas
 
-* Flujo de trabajo más estable y predecible
+* Reducción del WIP en Development
+* Priorización de tareas bloqueadas
+* Apoyo del equipo en Testing
+* Ajuste del flujo de trabajo
+
+---
+
+## 📈 Resultados obtenidos
+
 * Reducción de tiempos de entrega
+* Flujo más estable y predecible
 * Disminución de bloqueos
 * Mejora en la calidad del producto
-* Entrega continua de valor al usuario
 
 ---
 
-## 📂 Contenido del módulo
+## 📊 Impacto en el producto
 
-* `diseno_tablero_kanban.md` → Diseño del flujo y estructura del tablero
-* `politicas_wip.md` → Definición y gestión de límites de trabajo
-* `metricas_flujo.md` → Métricas y análisis del rendimiento
-* `caso_kanban_app_ingles.md` → Caso práctico aplicado
+* Mayor velocidad de entrega de funcionalidades
+* Mejor experiencia de usuario
+* Incremento en uso de la aplicación
+* Mayor satisfacción de usuarios (niños y padres)
 
 ---
 
@@ -126,15 +145,21 @@ Este módulo refleja prácticas utilizadas en entornos reales de desarrollo:
 * Gestión de delivery end-to-end
 * Optimización del flujo de trabajo
 * Uso de métricas para toma de decisiones
-* Alineación entre equipo técnico y objetivos de negocio
+* Alineación entre desarrollo y objetivos de negocio
 
 ---
 
-## 🎯 Valor agregado
+## 🔥 Insight clave
 
-Más allá de la teoría, este repositorio demuestra:
+> No se trata de gestionar tareas…
+> sino de gestionar cómo fluye el trabajo.
 
-👉 Capacidad para diseñar, gestionar y optimizar sistemas de trabajo ágiles
-👉 Enfoque en resultados medibles
-👉 Comprensión del impacto del delivery en el negocio
+---
 
+## 🎯 Conclusión
+
+La implementación de Kanban permite transformar un equipo:
+
+👉 de reactivo a predecible, eficiente y orientado a valor
+
+Asegurando una entrega continua de funcionalidades de alta calidad.
