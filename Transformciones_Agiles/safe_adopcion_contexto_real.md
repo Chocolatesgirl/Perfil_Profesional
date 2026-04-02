@@ -6,124 +6,123 @@ Caso práctico de adopción de metodologías ágiles en una organización del se
 
 ## 🎯 Objetivo
 
-Implementar prácticas ágiles basadas en SAFe y Scrum para mejorar la entrega de valor, optimizar la coordinación de equipos y modernizar la forma de trabajo.
+Implementar prácticas ágiles basadas en SAFe y Scrum para mejorar la entrega de valor, optimizar la coordinación de equipos y evolucionar la forma de trabajo.
 
 ---
 
 ## 🏢 Contexto
 
-Organización del sector previsional con proyectos críticos en ejecución bajo un enfoque tradicional (Waterfall).
+Organización con proyectos críticos en ejecución bajo enfoque tradicional.
 
-Se decide iniciar una transformación ágil incorporando:
+Se inicia una transformación ágil incorporando:
 
-* SAFe (Scaled Agile Framework)
+* SAFe
 * Scrum
 
 ---
 
 ## ⚠️ Problema
 
-Durante la implementación se identificaron múltiples desafíos:
+Durante la implementación se identificaron:
 
 ### 🌐 Barrera de idioma
 
-* Más del 90% de los colaboradores capacitados en SAFe no hablaban inglés
-* Material de formación completamente en inglés
+* ~90% del equipo no hablaba inglés
+* Material de capacitación en inglés
 * Baja comprensión del framework
 
 ### 🧠 Resistencia al cambio
 
-* Equipos provenientes de metodologías tradicionales
+* Equipos provenientes de Waterfall
 * Baja adopción de prácticas ágiles
-* Falta de entendimiento de roles
+* Falta de claridad en roles
 
-### ⚙️ Contexto operativo complejo
+### ⚙️ Contexto operativo
 
-* Proyectos críticos ya en ejecución
+* Proyectos críticos en curso
 * Alta presión por resultados
-* Imposibilidad de detener la operación
 
-### 👥 Problemas de compromiso
+### 👥 Bajo compromiso
 
-* Baja participación en ceremonias
-* Falta de adherencia a roles
-* Quejas constantes del equipo
+* Asistencia a ceremonias ~50–60%
+* Baja adherencia a roles
+* Alta cantidad de quejas
 
 ---
 
-## 🔍 Análisis
+## 🔍 Análisis (basado en métricas)
 
-Se identificó que la problemática no era técnica, sino **cultural y estructural**, afectando:
+Se observaron:
 
-* La adopción del framework
-* La comunicación entre equipos
-* La efectividad de las ceremonias ágiles
+* Baja adopción de prácticas ágiles (~30–40%)
+* Asistencia irregular a ceremonias (~50–60%)
+* Throughput inestable
+* Retrasos frecuentes en entregas
 
-> Se evidenció una sobrecarga cognitiva del equipo al intentar adoptar múltiples prácticas sin comprensión adecuada.
+> Se identificó que el principal problema era cultural y de comprensión, no técnico.
 
 ---
 
 ## 🧩 Estrategia implementada
 
-Se definió una **implementación gradual (incremental)** del framework:
+Se definió una implementación **gradual e incremental**:
 
 ### Fase 1: Estabilización
 
-* Enfoque en ceremonias ágiles (Daily, Planning, Review, Retro)
-* Definición clara de roles (Scrum Master, Product Owner, equipo)
+* Enfoque en ceremonias ágiles
+* Claridad en roles
 
 ### Fase 2: Capacitación adaptada
 
-* Re-entrenamiento del equipo en idioma comprensible
-* Explicación contextualizada de conceptos ágiles
+* Reentrenamiento en idioma comprensible
+* Explicación contextual
 
 ### Fase 3: Adopción progresiva
 
 * Incorporación paulatina de prácticas SAFe
-* Ajuste según madurez del equipo
+* Ajuste según madurez
 
 ---
 
 ## 🚀 Acción clave
 
-👉 Se decidió **simplificar la implementación**, priorizando:
+👉 Simplificación del framework:
 
-* Comprensión sobre cumplimiento del framework
-* Personas sobre procesos
-* Adaptación sobre imposición
+* Priorizar comprensión sobre cumplimiento
+* Adaptar SAFe al contexto real
+* Implementar cambios de forma progresiva
 
 ---
 
-## 📈 Resultado
+## 📈 Resultado (impacto medible)
 
-* Mejora progresiva en la participación del equipo
-* Mayor comprensión de roles ágiles
-* Reducción de la resistencia al cambio
-* Estabilización de ceremonias
-* Adopción gradual del framework
+* 📊 Adopción de prácticas ágiles ↑ ~75–85%
+* 👥 Asistencia a ceremonias ↑ ~80–90%
+* 📈 Throughput más estable
+* 🔽 Reducción de resistencia al cambio
+* ⚙️ Mejora en coordinación entre equipos
 
-> La implementación tomó más tiempo de lo esperado, pero permitió una adopción sostenible.
+> La implementación tomó más tiempo, pero logró una adopción sostenible.
 
 ---
 
 ## 🧠 Insight clave
 
-Las transformaciones ágiles fallan cuando se prioriza el framework sobre las personas.
+Las transformaciones ágiles no fallan por el framework, sino por la falta de adaptación al contexto organizacional.
 
-La adaptación al contexto organizacional, idioma y madurez del equipo es crítica para lograr una adopción efectiva y sostenible.
+Idioma, cultura y madurez del equipo son factores críticos de éxito.
 
 ---
 
 ## 🛠️ Enfoque aplicado
 
-* Implementación incremental
 * Gestión del cambio organizacional
+* Implementación incremental
 * Facilitación de equipos
 * Adaptación cultural
-* Simplificación del framework
 
 ---
 
 ## 🚀 Conclusión
 
-Una transformación ágil exitosa no consiste en implementar SAFe o Scrum de forma estricta, sino en adaptar sus principios al contexto real de la organización, priorizando la comprensión, la colaboración y la evolución progresiva del equipo.
+Una adopción efectiva de SAFe y Scrum requiere priorizar a las personas sobre el framework, adaptando las prácticas al contexto real para lograr resultados sostenibles.
