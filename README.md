@@ -137,6 +137,32 @@ Actúo como puente entre negocio y tecnología, alineando objetivos estratégico
 
 Este perfil forma parte de mi proceso de reinvención profesional, donde estoy desarrollando un portafolio práctico enfocado en liderazgo, cloud y DevOps.
 
+## 📂 Portafolio Destacado
+
+A continuación, algunos de los repositorios que reflejan mi experiencia en liderazgo, metodologías ágiles y transformación tecnológica:
+
+---
+
+### 🚀 Agile Transformation Portfolio
+Aplicación práctica de metodologías ágiles en contextos reales, incluyendo mejora de equipos, optimización de flujo y gestión del cambio.
+
+🔗 Ver repositorio:  
+https://github.com/Chocolatesgirl/Perfil_Profesional/tree/main/01_Agile_Portafolio  
+
+---
+
+### ⚙️ CI/CD Pipelines *(en construcción)*
+Implementación de integración continua con GitHub Actions, testing automatizado y pipelines YAML.
+
+🔗 Próximamente  
+
+---
+
+### ☁️ Cloud Migration *(en construcción)*
+Migración de arquitectura monolítica a microservicios, con enfoque en escalabilidad y resiliencia.
+
+🔗 Próximamente  
+
 ### 🔹 Fase 1: Fundamentos Ágiles
 - 📁 Perfil Profesional  
 - 📁 Plantillas Ágiles (OKRs, retrospectivas, Kanban, Management 3.0)  
