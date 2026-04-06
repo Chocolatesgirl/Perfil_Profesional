@@ -83,9 +83,13 @@ Este módulo se compone de cuatro dimensiones principales:
 
 ## 📊 Ejemplo de Cumulative Flow Diagram
 
-![Cumulative Flow Diagram](cumulative_flow_diagram.png)
+<p align="center">
+  <img src="03_Metricas_y_Mejora/cumulative_flow_diagram.png" width="700">
+</p>
 
-*Ejemplo de flujo Kanban donde se visualiza la acumulación de trabajo en distintas etapas del proceso.*
+<p align="center">
+  <em>Visualización del flujo de trabajo donde se observa la distribución de tareas en cada etapa del proceso.</em>
+</p>
 
 ### 🔍 Análisis del gráfico
 
