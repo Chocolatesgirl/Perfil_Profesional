@@ -49,7 +49,7 @@ Estas técnicas permiten no solo mejorar el desempeño, sino también fortalecer
 
 ---
 
-## 🏢 Transformaciones Ágiles
+### 🚀 Portafolio de Transformación Ágil
 
 ### Implementación de Scrum y SAFe en contextos organizacionales complejos
 
