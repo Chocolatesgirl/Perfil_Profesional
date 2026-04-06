@@ -1,8 +1,8 @@
 # 🚀 Agile Portafolio
 
-Portafolio profesional que documenta la aplicación práctica de metodologías ágiles en contextos reales, enfocado en la mejora del desempeño de equipos, optimización de flujo de trabajo y transformación organizacional.
+Portafolio profesional que demuestra cómo aplico metodologías ágiles en contextos reales para mejorar desempeño de equipos, optimizar flujo de trabajo y acompañar transformaciones organizacionales.
 
-Este repositorio evidencia experiencia en facilitación de equipos, gestión del cambio y toma de decisiones basada en métricas, con un enfoque orientado a resultados y generación de valor.
+Este repositorio reúne prácticas, métricas, casos y herramientas que reflejan experiencia aplicada en liderazgo ágil, mejora continua y toma de decisiones basada en evidencia.
 
 ---
 
