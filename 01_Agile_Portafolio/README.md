@@ -1,4 +1,4 @@
-# 🚀 Agile Portfolio
+# 🚀 Agile Portafolio
 
 Portafolio profesional que documenta la aplicación práctica de metodologías ágiles en contextos reales, enfocado en la mejora del desempeño de equipos, optimización de flujo de trabajo y transformación organizacional.
 
