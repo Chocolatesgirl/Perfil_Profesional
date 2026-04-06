@@ -73,8 +73,8 @@ Este módulo se compone de cuatro dimensiones principales:
 
 ### 📊 3. Métricas y mejora
 
-📄 `metricas_flujo.md`
-📄 `cumulative_flow_explicado.md`
+- `metricas_flujo.md`
+- `cumulative_flow_explicado.md`
 
 * Medición de Lead Time, Cycle Time y Throughput
 * Análisis del flujo mediante métricas
