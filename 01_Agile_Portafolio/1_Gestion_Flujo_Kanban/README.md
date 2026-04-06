@@ -42,15 +42,20 @@ Objetivos del producto:
 
 ---
 
-## 🧱 Estructura del flujo
+## 🧱 Flujo de Trabajo
 
-El sistema se organiza en un flujo continuo:
+## 🔄 Flujo de trabajo
 
-```text
-Backlog → Ready → Development → Code Review → Testing → QA → Release → Done
-```
+El flujo se define con políticas explícitas en cada etapa:
 
-Este flujo permite gestionar el trabajo de manera progresiva, asegurando calidad en cada etapa.
+| Etapa | Descripción | Política de entrada | Política de salida |
+|------|------------|--------------------|-------------------|
+| Ready | Trabajo refinado | Historia definida + criterios de aceptación | Pull a desarrollo |
+| Development | Construcción | Capacidad disponible | Código completo |
+| Code Review | Validación técnica | PR creado | Aprobación |
+| Testing | Validación funcional | Build estable | Tests OK |
+| QA | Validación final | Feature completa | Aprobación QA |
+| Release | Despliegue | QA aprobado | Deploy |
 
 ---
 
@@ -96,25 +101,150 @@ Este módulo se compone de cuatro dimensiones principales:
 * Identificación de cuellos de botella
 * Uso de CFD (Cumulative Flow Diagram)
 
-## 📊 Ejemplo de Cumulative Flow Diagram
+---
+
+## 📊 Cumulative Flow Diagram (CFD)
+
+El Cumulative Flow Diagram permite visualizar el comportamiento del flujo de trabajo a lo largo del tiempo, mostrando la distribución de tareas en cada etapa del proceso.
 
 <p align="center">
   <img src="03_Metricas_y_Mejora/cumulative_flow_diagram.png" width="700">
 </p>
 
+---
+
+---
+
+## ⏱️ Análisis de Lead Time
+
+El Lead Time mide el tiempo total desde que una tarea es solicitada hasta que es entregada.
+
+### 🔍 Distribución del Lead Time
+
 <p align="center">
-  <em>Visualización del flujo de trabajo donde se observa la distribución de tareas en cada etapa del proceso.</em>
+  <img src="03_Metricas_y_Mejora/lead_time_distribution.png" width="600">
 </p>
 
-### 🔍 Análisis del gráfico
+---
 
-- Se observa acumulación en la etapa de Testing → posible cuello de botella  
-- El crecimiento irregular indica variabilidad en el flujo  
-- La banda de "Done" muestra la velocidad de entrega del equipo  
+### 📊 Interpretación
 
-👉 Este tipo de análisis permite tomar decisiones para mejorar la eficiencia del sistema.
+- Alta dispersión → flujo inestable  
+- Valores extremos → cuellos de botella o bloqueos  
+- Distribución concentrada → sistema predecible  
 
-👉 Enfoque data-driven para optimizar el sistema
+---
+
+### 🚨 Hallazgos en el caso
+
+- Variabilidad alta en tiempos de entrega  
+- Tareas bloqueadas en Testing incrementan el Lead Time  
+- Falta de control de WIP genera acumulación  
+
+---
+
+### 🛠️ Acciones tomadas
+
+- Implementación de límites WIP  
+- Priorización de tareas en progreso  
+- Reducción de multitasking  
+
+---
+
+### 📈 Resultado
+
+- Disminución de la variabilidad  
+- Mayor predictibilidad  
+- Reducción del Lead Time promedio
+
+---
+
+## 📉 Mejora del flujo (Before vs After)
+
+Se comparó el comportamiento del sistema antes y después de implementar prácticas Kanban.
+
+<p align="center">
+  <img src="03_Metricas_y_Mejora/flujo_before_after.png" width="700">
+</p>
+
+---
+
+### 🔍 Comparación
+
+| Métrica | Antes | Después |
+|--------|------|--------|
+| Lead Time | Alto | Reducido |
+| Cycle Time | Variable | Estable |
+| WIP | Descontrolado | Limitado |
+| Flujo | Inestable | Continuo |
+
+---
+
+### 🎯 Impacto
+
+- Flujo más estable  
+- Reducción de tiempos de entrega  
+- Mayor capacidad de respuesta  
+- Mejora en la eficiencia del equipo  
+
+👉 Se pasa de un sistema reactivo a uno gestionado por flujo.
+
+### 🔍 ¿Qué información entrega?
+
+- Evolución del trabajo en curso (WIP)
+- Velocidad de entrega del equipo
+- Estabilidad del flujo
+- Identificación de cuellos de botella
+
+---
+
+### ⚠️ Interpretación del gráfico
+
+En el análisis del CFD se pueden identificar patrones clave:
+
+- **Bandas que se expanden**  
+  👉 Indican acumulación de trabajo → posible cuello de botella  
+
+- **Bandas paralelas y estables**  
+  👉 Flujo equilibrado → sistema estable  
+
+- **Bandas irregulares o con variaciones bruscas**  
+  👉 Flujo inestable → problemas en la gestión del trabajo  
+
+---
+
+### 🚨 Análisis aplicado al caso
+
+En este caso se observa:
+
+- Acumulación en la etapa de **Testing**  
+  → Indica un cuello de botella en validación  
+
+- Diferencias en el ancho de las bandas  
+  → Reflejan variabilidad en la capacidad del equipo  
+
+- Crecimiento no uniforme de “Done”  
+  → Baja predictibilidad de entrega  
+
+---
+
+### 🛠️ Decisiones tomadas a partir del CFD
+
+- Reducción de WIP en etapas previas  
+- Redistribución de carga hacia Testing  
+- Priorización de tareas bloqueadas  
+- Ajuste del flujo para evitar sobrecarga  
+
+---
+
+### 📈 Resultado esperado
+
+- Flujo más estable  
+- Reducción del Lead Time  
+- Mayor predictibilidad  
+- Disminución de cuellos de botella  
+
+👉 El CFD permite pasar de intuición a decisiones basadas en datos.
 
 ---
 
