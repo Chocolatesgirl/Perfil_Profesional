@@ -94,20 +94,42 @@ Actúo como puente entre negocio y tecnología, alineando objetivos estratégico
 
 ## 🧩 Casos Destacados
 
-### 🏦 Transformación ágil en AFP
-- Implementación de Scrum y SAFe en múltiples áreas  
-- Cambio cultural organizacional  
-- Uso de métricas para mejora continua  
+### 🏦 Transformación ágil en AFP  
+**Contexto:** Organización tradicional con baja adopción ágil  
+**Problema:** Equipos desalineados y baja eficiencia en entrega  
+**Solución:** Implementación de Scrum + SAFe + métricas de flujo  
 
-### 🚢 Plataforma ERP Logística
-- Rediseño UX y simplificación de versiones (20 → 4)  
-- Integración con servicios externos (SNA)  
-- Preparación para expansión internacional  
+**Resultados:**
+- Mejora en coordinación entre áreas  
+- Incremento en productividad de equipos  
+- Cultura de mejora continua  
 
-### 🤖 Automatización con Chatbot
-- Reducción estimada del 60% en tickets de soporte  
+🔗 Evidencia:  
+- https://github.com/Chocolatesgirl/Plantillas_Agiles  
+
+---
+
+### 🚢 Plataforma ERP Logística  
+**Contexto:** Plataforma con múltiples versiones y baja usabilidad  
+**Problema:** Alta complejidad operativa y dificultad de adopción  
+**Solución:** Rediseño UX + estandarización de versiones (20 → 4)  
+
+**Resultados:**
+- Simplificación operativa  
+- Mejora en experiencia de usuario  
+- Base para expansión internacional  
+
+---
+
+### 🤖 Automatización con Chatbot  
+**Contexto:** Alta carga de tickets operativos  
+**Problema:** Baja eficiencia en soporte  
+**Solución:** Automatización mediante chatbot + integración de procesos  
+
+**Resultados:**
+- Reducción estimada del 60% en tickets  
 - Mejora en eficiencia operativa  
-- Integración con procesos de negocio  
+- Optimización de recursos  
 
 ---
 
