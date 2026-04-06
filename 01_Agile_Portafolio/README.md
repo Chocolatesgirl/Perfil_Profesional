@@ -117,3 +117,12 @@ Este portafolio refleja una aproximación práctica, donde cada herramienta y t�
 Este repositorio no es teórico.
 
 Refleja experiencia real aplicando prácticas ágiles para mejorar equipos, procesos y resultados de negocio.
+
+---
+
+## 🔗 Conexión con Perfil Profesional
+
+Este repositorio forma parte de mi portafolio profesional en GitHub, donde integro liderazgo, metodologías ágiles y transformación tecnológica.
+
+🔗 Ver perfil completo:  
+https://github.com/Chocolatesgirl/Perfil_Profesional  
