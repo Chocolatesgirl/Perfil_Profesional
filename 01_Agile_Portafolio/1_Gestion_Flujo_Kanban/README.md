@@ -81,6 +81,20 @@ Este módulo se compone de cuatro dimensiones principales:
 * Identificación de cuellos de botella
 * Uso de CFD (Cumulative Flow Diagram)
 
+## 📊 Ejemplo de Cumulative Flow Diagram
+
+![Cumulative Flow Diagram](cumulative_flow_diagram.png)
+
+*Ejemplo de flujo Kanban donde se visualiza la acumulación de trabajo en distintas etapas del proceso.*
+
+### 🔍 Análisis del gráfico
+
+- Se observa acumulación en la etapa de Testing → posible cuello de botella  
+- El crecimiento irregular indica variabilidad en el flujo  
+- La banda de "Done" muestra la velocidad de entrega del equipo  
+
+👉 Este tipo de análisis permite tomar decisiones para mejorar la eficiencia del sistema.
+
 👉 Enfoque data-driven para optimizar el sistema
 
 ---
