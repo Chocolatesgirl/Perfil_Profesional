@@ -1,88 +1,102 @@
-# 🚀 Agile Portafolio
+# 🚀 Agile Portfolio
 
-Portafolio profesional que documenta la aplicación práctica de metodologías ágiles en contextos reales, incluyendo mejora de equipos, optimización de flujo de trabajo y transformación organizacional.
+Portafolio profesional que documenta la aplicación práctica de metodologías ágiles en contextos reales, enfocado en la mejora del desempeño de equipos, optimización de flujo de trabajo y transformación organizacional.
 
-Este repositorio refleja experiencia en la facilitación de equipos, gestión del cambio y toma de decisiones basada en métricas.
-
----
-
-## 🧠 Enfoque profesional
-
-Experiencia en:
-
-* Facilitación de retrospectivas ágiles
-* Mejora de desempeño de equipos de desarrollo
-* Optimización de flujo de trabajo (Flow Metrics)
-* Gestión del cambio organizacional
-* Implementación de metodologías ágiles (Scrum, SAFe)
-
-El enfoque se basa en:
-
-* 📊 Uso de métricas (Lead Time, Throughput, WIP)
-* 👥 Adaptación al contexto del equipo
-* 🔄 Mejora continua sostenible
-* 🧠 Enfoque en cultura y personas
+Este repositorio evidencia experiencia en facilitación de equipos, gestión del cambio y toma de decisiones basada en métricas, con un enfoque orientado a resultados y generación de valor.
 
 ---
 
-## 📂 Casos de retrospectivas
+## 🧭 Enfoque Profesional
 
-Casos prácticos de facilitación de retrospectivas para identificar problemas, analizar causas y definir acciones de mejora.
+Experiencia aplicada en:
 
-* 🔹 **Sailboat** – Mejora de comunicación en equipos
-* 🔹 **Start / Stop / Continue** – Optimización de flujo de trabajo
-* 🔹 **4L** – Gestión de clima laboral y desgaste del equipo
+- Facilitación de retrospectivas ágiles y dinámicas de mejora continua  
+- Optimización del desempeño de equipos de desarrollo  
+- Gestión y mejora de flujo de trabajo (Flow Metrics)  
+- Gestión del cambio en entornos organizacionales complejos  
+- Implementación de marcos ágiles (Scrum, SAFe, Kanban)  
 
----
+### Principios de trabajo
 
-## 🚀 Transformaciones ágiles
-
-Casos reales de implementación de metodologías ágiles en organizaciones con contextos complejos.
-
-* 🔹 **Implementación de SAFe y Scrum en contexto organizacional complejo**
-
-  * Gestión de resistencia al cambio
-  * Adaptación cultural
-  * Implementación incremental
+- 📊 Toma de decisiones basada en métricas (Lead Time, Cycle Time, Throughput, WIP)  
+- 👥 Adaptación al contexto del equipo y madurez organizacional  
+- 🔄 Mejora continua sostenible basada en evidencia  
+- 🧠 Enfoque en cultura, colaboración y liderazgo de equipos  
 
 ---
 
-## 📊 Capacidades demostradas
+## 🗂️ Estructura del Portafolio
 
-A través de estos casos se evidencian las siguientes competencias:
+El contenido está organizado en dominios clave de transformación ágil:
 
-* Identificación de problemas sistémicos en equipos
-* Facilitación de dinámicas de mejora continua
-* Uso de métricas para toma de decisiones
-* Gestión de equipos en contextos de alta complejidad
-* Resolución de problemas de comunicación y coordinación
-* Mejora del clima laboral y compromiso del equipo
-
----
-
-## 🛠️ Herramientas y prácticas
-
-* Scrum
-* SAFe (Scaled Agile Framework)
-* Kanban
-* Jira / Azure DevOps
-* Métricas de flujo (Flow Metrics)
-* Técnicas de retrospectiva
+- **Gestión de Flujo con Kanban** → Diseño, operación y optimización del flujo de trabajo  
+- **Ejecución Estratégica con OKRs** → Alineación de objetivos y entrega de valor  
+- **Mejora Continua con Retrospectivas** → Identificación de problemas y evolución del equipo  
+- **Liderazgo con Management 3.0** → Cultura, motivación y empoderamiento de equipos  
+- **Transformaciones Ágiles** → Casos reales en contextos organizacionales complejos  
 
 ---
 
-## 🎯 Objetivo del repositorio
+## 📂 Casos de Retrospectivas
+
+Aplicación de técnicas de retrospectiva para detectar problemas sistémicos, analizar causas raíz y definir acciones concretas de mejora.
+
+- 🔹 **Sailboat** → Mejora de comunicación y alineación del equipo  
+- 🔹 **Start / Stop / Continue** → Optimización del flujo de trabajo  
+- 🔹 **4L (Liked, Learned, Lacked, Longed for)** → Gestión de clima laboral y aprendizaje  
+
+---
+
+## 🚀 Transformaciones Ágiles
+
+Casos reales de implementación de metodologías ágiles en organizaciones con alta complejidad.
+
+### 🔹 Implementación de SAFe y Scrum
+
+- Gestión de resistencia al cambio  
+- Adaptación cultural organizacional  
+- Implementación incremental de prácticas ágiles  
+- Escalamiento de equipos y coordinación inter-áreas  
+
+---
+
+## 📊 Capacidades Demostradas
+
+Este portafolio evidencia competencias clave en:
+
+- Identificación de problemas sistémicos en equipos  
+- Facilitación de dinámicas de mejora continua  
+- Uso de métricas para la toma de decisiones  
+- Gestión de equipos en entornos complejos  
+- Resolución de problemas de comunicación y coordinación  
+- Mejora del compromiso, clima laboral y productividad  
+
+---
+
+## 🛠️ Herramientas y Prácticas
+
+- Scrum  
+- SAFe (Scaled Agile Framework)  
+- Kanban  
+- Jira / Azure DevOps  
+- Flow Metrics (Lead Time, Cycle Time, Throughput, WIP)  
+- Técnicas de retrospectiva  
+- Gestión visual de trabajo  
+
+---
+
+## 🎯 Objetivo del Repositorio
 
 Demostrar experiencia práctica en la aplicación de metodologías ágiles, destacando la capacidad de:
 
-* Mejorar el desempeño de equipos
-* Optimizar procesos
-* Liderar cambios organizacionales
-* Generar impacto real en la entrega de valor
+- Optimizar el desempeño de equipos  
+- Mejorar procesos y eficiencia operativa  
+- Liderar transformaciones organizacionales  
+- Generar impacto real en la entrega de valor  
 
 ---
 
-## 🚀 Enfoque final
+## 🚀 Enfoque Final
 
 Las metodologías ágiles no se implementan, se adaptan.
 
