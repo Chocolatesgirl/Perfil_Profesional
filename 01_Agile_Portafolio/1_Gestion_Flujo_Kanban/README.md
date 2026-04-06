@@ -1,8 +1,8 @@
-# 📊 Gestión de Flujo con Kanban
+## 🚀 Gestión de Flujo con Kanban en Entornos Reales
 
-## 🎯 Propósito
+Este módulo demuestra cómo implementar Kanban como sistema de gestión de flujo en equipos de desarrollo de software, enfocado en la optimización de entrega continua, reducción de cuellos de botella y toma de decisiones basada en métricas.
 
-Este módulo presenta la implementación de **Kanban como sistema de gestión de flujo**, aplicado al desarrollo de un producto digital.
+Se basa en prácticas aplicadas en contextos reales de transformación ágil.
 
 El enfoque está orientado a:
 
@@ -10,6 +10,21 @@ El enfoque está orientado a:
 * Optimizar el flujo de entrega
 * Reducir tiempos de desarrollo
 * Tomar decisiones basadas en métricas
+
+---
+
+## 📈 Impacto esperado
+
+La implementación de Kanban como sistema de gestión de flujo permite generar impacto directo en el desempeño del equipo y en los resultados del producto:
+
+- Reducción del Lead Time
+- Disminución del Cycle Time
+- Mejora en la predictibilidad de entrega
+- Identificación temprana de cuellos de botella
+- Incremento del throughput del equipo
+- Optimización del uso de capacidad
+
+👉 Este enfoque permite evolucionar desde la gestión de tareas hacia la optimización del sistema de trabajo.
 
 ---
 
