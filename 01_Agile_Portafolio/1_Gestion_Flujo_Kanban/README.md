@@ -156,10 +156,8 @@ Este módulo refleja prácticas utilizadas en entornos reales de desarrollo:
 
 ---
 
-## 🎯 Conclusión
+## Conclusión
 
-La implementación de Kanban permite transformar un equipo:
+Kanban no solo permite visualizar tareas; permite gestionar el sistema de trabajo, estabilizar el flujo y mejorar la capacidad de entrega de valor.
 
-👉 de reactivo a predecible, eficiente y orientado a valor
-
-Asegurando una entrega continua de funcionalidades de alta calidad.
+En este módulo, el enfoque está puesto en cómo transformar la operación del equipo a través de decisiones basadas en flujo, límites WIP y métricas.
