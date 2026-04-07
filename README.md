@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chocolatesgirl/Perfil_Profesional/main/assets/banner_github.png" alt="Banner Verónica Maldonado" />
+  <img src="https://raw.githubusercontent.com/Chocolatesgirl/Perfil_Profesional/main/assets/banner_portada.png" alt="Banner Verónica Maldonado" />
 </p>
 
 <h1 align="center">👩‍💻 Verónica Maldonado Céspedes</h1>
