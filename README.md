@@ -101,17 +101,17 @@ Actúo como puente entre negocio y tecnología, alineando objetivos estratégico
 
 **Resultados:**
 - Mejora en coordinación entre áreas  
-- Incremento en productividad de equipos  
+- Incremento en productividad  
 - Cultura de mejora continua  
 
 🔗 Evidencia:  
-- https://github.com/Chocolatesgirl/Plantillas_Agiles  
+https://github.com/Chocolatesgirl/Plantillas_Agiles  
 
 ---
 
 ### 🚢 Plataforma ERP Logística  
 **Contexto:** Plataforma con múltiples versiones y baja usabilidad  
-**Problema:** Alta complejidad operativa y dificultad de adopción  
+**Problema:** Alta complejidad operativa  
 **Solución:** Rediseño UX + estandarización de versiones (20 → 4)  
 
 **Resultados:**
@@ -124,10 +124,10 @@ Actúo como puente entre negocio y tecnología, alineando objetivos estratégico
 ### 🤖 Automatización con Chatbot  
 **Contexto:** Alta carga de tickets operativos  
 **Problema:** Baja eficiencia en soporte  
-**Solución:** Automatización mediante chatbot + integración de procesos  
+**Solución:** Automatización mediante chatbot  
 
 **Resultados:**
-- Reducción estimada del 60% en tickets  
+- Reducción del 60% en tickets  
 - Mejora en eficiencia operativa  
 - Optimización de recursos  
 
@@ -135,83 +135,69 @@ Actúo como puente entre negocio y tecnología, alineando objetivos estratégico
 
 ## 🚀 Roadmap Profesional en GitHub
 
-Este perfil forma parte de mi proceso de reinvención profesional, donde estoy desarrollando un portafolio práctico enfocado en liderazgo, cloud y DevOps.
+Este perfil forma parte de mi proceso de reinvención profesional, enfocado en liderazgo, cloud y DevOps.
 
-## 📂 Portafolio Destacado
+### 📂 Portafolio Destacado
 
-A continuación, algunos de los repositorios que reflejan mi experiencia en liderazgo, metodologías ágiles y transformación tecnológica:
+#### 🚀 Agile Transformation Portfolio  
+Aplicación práctica de metodologías ágiles en contextos reales  
 
----
-
-### 🚀 Agile Transformation Portfolio
-Aplicación práctica de metodologías ágiles en contextos reales, incluyendo mejora de equipos, optimización de flujo y gestión del cambio.
-
-🔗 Ver repositorio:  
+🔗  
 https://github.com/Chocolatesgirl/Perfil_Profesional/tree/main/01_Agile_Portafolio  
 
 ---
 
-### ⚙️ CI/CD Pipelines *(en construcción)*
-Implementación de integración continua con GitHub Actions, testing automatizado y pipelines YAML.
-
-🔗 Próximamente  
+#### ⚙️ CI/CD Pipelines *(en construcción)*  
+Implementación de integración continua con GitHub Actions  
 
 ---
 
-### ☁️ Cloud Migration *(en construcción)*
-Migración de arquitectura monolítica a microservicios, con enfoque en escalabilidad y resiliencia.
+#### ☁️ Cloud Migration *(en construcción)*  
+Migración de monolito a microservicios  
 
-🔗 Próximamente  
+---
+
+## 🧭 Fases del Roadmap
 
 ### 🔹 Fase 1: Fundamentos Ágiles
-- 📁 Perfil Profesional  
-- 📁 Plantillas Ágiles (OKRs, retrospectivas, Kanban, Management 3.0)  
+- Perfil Profesional  
+- Plantillas Ágiles  
 
 ### 🔹 Fase 2: Cloud & DevOps
-- ⚙️ CI/CD Pipelines (GitHub Actions, testing, YAML)  
-- ☁️ Migración a la Nube (Monolito → Microservicios)  
+- CI/CD Pipelines  
+- Migración a la Nube  
 
 ### 🔹 Fase 3: Innovación
-- 🤖 Reconocimiento Facial (Cloud)  
-- 💬 Chatbot de procesos (RPA + IA)  
+- Reconocimiento Facial  
+- Chatbot (RPA + IA)  
 
 ### 🔹 Fase 4: IoT & Analítica
-- 🌐 IoT Transporte (datos en tiempo real)  
+- IoT Transporte  
 
 ---
 
 ## 🎯 Enfoque del Portafolio
 
-Este portafolio demuestra:
-
 - ✔ Liderazgo en transformación digital  
 - ✔ Implementación real de DevOps  
 - ✔ Arquitectura cloud escalable  
-- ✔ Integración de tecnologías emergentes  
-
----
-
-## 📈 Estrategia
-
-Cada repositorio incluye:
-
-- Documentación profesional  
-- Arquitectura explicada  
-- Casos reales  
-- Enfoque en valor de negocio  
+- ✔ Enfoque en valor de negocio  
 
 ---
 
 ## 📫 Contacto
 
-💼 LinkedIn: https://www.linkedin.com/in/verónicamaldonado  
-🌐 GitHub: https://github.com/Chocolatesgirl  
+💼 LinkedIn:  
+https://www.linkedin.com/in/verónicamaldonado  
+
+🌐 GitHub:  
+https://github.com/Chocolatesgirl  
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Aportar valor en organizaciones que busquen transformación digital real, combinando liderazgo, tecnología y estrategia para generar resultados medibles y sostenibles.
+Aportar valor en organizaciones que busquen transformación digital real, combinando liderazgo, tecnología y estrategia.
 
 ---
 
@@ -224,9 +210,4 @@ Estoy abierta a oportunidades como:
 - Cloud & DevOps Leader  
 - Transformación digital  
 
-📩 Contáctame por LinkedIn  
-
----
-
-⭐ Transformando tecnología en valor de negocio  
-⭐ Siempre aprendiendo, siempre mejorando
+📩 Contáctame por LinkedIn
