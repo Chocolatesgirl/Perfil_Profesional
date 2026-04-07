@@ -1,4 +1,3 @@
-@@ -1,232 +0,0 @@
 # 👩‍💻 Verónica Maldonado Céspedes  
 ### Delivery Manager | Senior Project Manager | Cloud & DevOps Leader  
 
