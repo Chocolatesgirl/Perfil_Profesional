@@ -1,7 +1,7 @@
 # 👩‍💻 Verónica Maldonado Céspedes
 ### Delivery Manager | Senior Project Manager | Cloud & DevOps Leader
 
-![Banner](./assets/banner_agile.png)
+![Banner](./assets/banner_portada.png)
 
 🚀 +10 años liderando transformación digital | Cloud | DevOps | Agile
 
