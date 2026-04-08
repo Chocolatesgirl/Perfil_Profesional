@@ -82,7 +82,7 @@ Este perfil está respaldado por un portafolio estructurado que demuestra cómo 
 
 ### 🚀 Portafolio de Transformación Ágil
 
-👉 https://github.com/Chocolatesgirl/Portafolio_Transformacion_Agil
+👉 https://github.com/vermaldonado-ia/Portafolio_Transformacion_Agil
 
 Incluye:
 
