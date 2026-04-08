@@ -4,16 +4,16 @@
 </p>
 
 <h1 align="center">👩‍💻 Verónica Maldonado Céspedes</h1>
-<h3 align="center">Delivery Manager | Senior Project Manager | Cloud & DevOps Leader</h3>
+<h3 align="center">Delivery Manager | Agile & Cloud Transformation</h3>
 
 <p align="center">
-🚀 +10 años liderando transformación digital | Agile | Cloud | DevOps
+🚀 +10 años liderando delivery tecnológico | Transformación organizacional | Cloud & DevOps
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agile-Scrum-blue" />
-  <img src="https://img.shields.io/badge/Framework-SAFe-purple" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange" />
+  <img src="https://img.shields.io/badge/Delivery-Management-blue" />
+  <img src="https://img.shields.io/badge/Agile-Kanban%20%7C%20Scrum-orange" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-yellow" />
   <img src="https://img.shields.io/badge/DevOps-CI/CD-green" />
 </p>
 
@@ -21,101 +21,106 @@
 
 ## 🌟 Sobre mí
 
-Ingeniera Civil Informática con más de 10 años liderando iniciativas de transformación digital en sectores como banca, minería, telecomunicaciones y consultoría.
+Ingeniera Civil Informática con más de 10 años liderando iniciativas de **delivery tecnológico y transformación digital** en sectores como banca, minería, telecomunicaciones y consultoría.
 
-Especializada en **gestión de equipos ágiles, modernización tecnológica y entrega continua de valor**, con foco en la integración de prácticas **Cloud y DevOps**.
+Especializada en la gestión de equipos en entornos complejos, con foco en:
 
-He liderado equipos multidisciplinarios en entornos complejos, impulsando:
+- Alinear tecnología con objetivos de negocio  
+- Optimizar sistemas de trabajo para mejorar la entrega  
+- Tomar decisiones basadas en métricas  
+- Asegurar entrega continua de valor  
 
-- 🚀 Migraciones a la nube (AWS / Azure)
-- ⚙️ Implementación de pipelines CI/CD
-- 📈 Optimización de flujo con métricas ágiles
-- 🔄 Transformaciones organizacionales con Scrum y SAFe
+He liderado equipos multidisciplinarios impulsando:
 
-Actúo como puente entre negocio y tecnología, facilitando la toma de decisiones basada en datos y asegurando la entrega sostenible de valor.
+- 🚀 Migraciones a la nube (AWS / Azure)  
+- ⚙️ Implementación de pipelines CI/CD  
+- 📊 Optimización de flujo con métricas (Lead Time, Cycle Time, Throughput)  
+- 🔄 Transformaciones organizacionales (Scrum + SAFe adaptado)  
+
+👉 Actúo como puente entre negocio y tecnología, enfocada en resultados, no solo en prácticas.
 
 ---
 
 ## 🧠 Enfoque Profesional
 
-Mi enfoque se basa en la evolución desde la gestión de proyectos tradicional hacia la **gestión de sistemas de trabajo**, combinando:
+Trabajo bajo un enfoque de **delivery como sistema**, donde la ejecución se gestiona de forma integrada:
 
-- Gestión ágil (Scrum, Kanban, SAFe)
-- Prácticas DevOps
-- Arquitectura Cloud
-- Métricas de desempeño y flujo
+- 📊 Flujo de trabajo (Kanban)  
+- 🎯 Alineación estratégica (OKRs)  
+- ⚙️ Mejora continua del equipo  
+- 🧠 Liderazgo organizacional  
+- 📈 Métricas para toma de decisiones  
 
-👉 Busco posicionarme como:
-
-**Cloud & DevOps Delivery Manager | Líder de Transformación Tecnológica**
+👉 Enfoque clave:  
+**Toma de decisiones basada en datos (Data-Driven Execution)**
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack
 
 **Metodologías**
-- Scrum | Kanban | SAFe | Management 3.0
+- Kanban | Scrum | SAFe  
 
 **Cloud**
-- AWS | Azure
+- AWS | Azure  
 
 **DevOps**
-- GitHub Actions | Jenkins | CI/CD
-- SonarQube
+- GitHub Actions | Jenkins | CI/CD  
+- SonarQube  
 
 **Herramientas**
-- Jira | Azure DevOps
+- Jira | Azure DevOps  
 
 **Tecnologías**
-- Python | APIs REST | JSON
+- Python | APIs REST | JSON  
 
 ---
 
 ## 📂 Portafolio Profesional
 
-Este perfil forma parte de un roadmap estratégico orientado a visibilidad y posicionamiento profesional.
+Este perfil está respaldado por un portafolio estructurado que demuestra cómo gestiono delivery en entornos reales.
 
-### 🔹 Repositorios Destacados
+### 🚀 Portafolio de Transformación Ágil
 
-#### 🚀 Agile Portafolio
-Aplicación práctica de metodologías ágiles en contextos reales:
+👉 https://github.com/Chocolatesgirl/Portafolio_Transformacion_Agil
 
-- Gestión de flujo con Kanban
-- Ejecución estratégica con OKRs
-- Prácticas de Management 3.0
-- Métricas de desempeño y mejora continua
+Incluye:
 
-👉 https://github.com/Chocolatesgirl/Agile_Portafolio
-
----
-
-#### ⚙️ CI/CD Pipelines (en desarrollo)
-Implementación de integración continua y despliegue automatizado:
-
-- Pipelines con GitHub Actions / Jenkins
-- Integración con SonarQube
-- Automatización de testing
+- 📊 Gestión de flujo con Kanban  
+- 🎯 Ejecución estratégica con OKRs  
+- ⚙️ Optimización del desempeño de equipos  
+- 🧠 Liderazgo y gestión organizacional  
+- 🚀 Casos reales con impacto en negocio  
 
 ---
 
-#### ☁️ Cloud Migration (en desarrollo)
-Caso práctico de modernización:
+### ⚙️ CI/CD Pipelines (en desarrollo)
 
-- Migración de arquitectura monolítica a microservicios
-- Diseño de arquitectura Cloud
-- Enfoque DevOps
+- Automatización de integración y despliegue  
+- Pipelines con GitHub Actions / Jenkins  
+- Integración con testing y calidad  
 
 ---
 
-## 📊 Enfoque en Métricas
+### ☁️ Cloud Migration (en desarrollo)
 
-Trabajo con métricas orientadas a resultados:
+- Modernización de arquitectura  
+- Enfoque DevOps  
+- Migración a microservicios  
 
-- 📈 Lead Time / Cycle Time
-- 🔄 Throughput
-- 📊 Cumulative Flow Diagram
-- 🎯 OKRs (Outputs vs Outcomes)
-- 😊 Salud y desempeño de equipos
+---
+
+## 📊 Gestión basada en métricas
+
+La ejecución se gestiona mediante indicadores clave:
+
+- Lead Time / Cycle Time  
+- Throughput  
+- Work In Progress (WIP)  
+- Cumplimiento de objetivos (OKRs)  
+- Engagement y salud del equipo  
+
+👉 Las métricas permiten tomar decisiones, no solo medir.
 
 ---
 
@@ -131,7 +136,10 @@ Trabajo con métricas orientadas a resultados:
 
 ## 🚀 Propósito
 
-Este perfil no solo muestra experiencia, sino la evolución hacia un rol que integra:
+Este perfil refleja la evolución hacia un rol enfocado en:
 
-👉 Liderazgo + Tecnología + Estrategia
+👉 **Liderar equipos + Gestionar delivery + Generar impacto en negocio**
 
+---
+
+💡 *El delivery efectivo no depende de metodologías, sino de la capacidad de diseñar sistemas que permitan entregar valor de forma consistente.*
